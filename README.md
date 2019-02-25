@@ -1,1 +1,1 @@
-# Delphi-Rest-Client-with-Java-Spring-REST-backend
+# Delphi Rest Client with Java Spring REST on backend
